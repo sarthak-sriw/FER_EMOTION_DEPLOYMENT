@@ -4,6 +4,6 @@
 
 ```
 Model Architecture :
-![](model.png)
 
 ```
+![](model.png)
